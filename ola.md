@@ -10,3 +10,6 @@
 - Conclusión
 
 > Edita este archivo según sea necesario para tu colaboración en equipo.
+
+
+adios
